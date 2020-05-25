@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>jn&#39;home</title>
+  
+  <subtitle>你是谁，就会遇见谁</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jndman.github.io/"/>
+  <updated>2020-05-25T06:26:57.753Z</updated>
+  <id>https://jndman.github.io/</id>
+  
+  <author>
+    <name>jn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://jndman.github.io/posts/d4a1185/"/>
+    <id>https://jndman.github.io/posts/d4a1185/</id>
+    <published>2020-05-23T15:59:03.000Z</published>
+    <updated>2020-05-25T06:26:57.753Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>计算机专业本科菜鸟一枚。</p><p>​    从大一起由前辈带路走上一条折腾的不归路，可惜能力有限还好吃懒做。</p><p>​    大一下半学期接触html准备整一个博客，买了学生机买了域名结果linux水平有限被各种劝退，中间陆陆续续想要折腾过但是由于各种原因被搁置（归根结底是太懒了。</p><p>​    现在大二下学期即将升入大三，不管是考研还是工作，未来的方向大致心里也有些把握。到此时此刻，刚刚结束了一门网课，终于可以轻松一下干点自己的事情，因为目前暂定要考一下七月份的rhce考试，也需要重新整理一遍知识，故决定一边复习一边也准备重新把博客这个事情纳入日程。</p><p>​    在经历几天的考虑之后决定用GithubPages+Hexo搭建，由于CSDN使用较多，且用户和受众也比较多，所以考虑到文章反馈的问题还是决定技术类文章依然在CSDN上同步更新。图床考虑尝试了很久，最终决定使用了Github图床，利用PicGo图床工具+JsDelivr加速+Typora编辑器结合的上传，虽然目前还有一些BUG需要解决，但是相对来说对我还是最稳定最佳的选择。</p><p>​    至于博客的内容，基本上会是一些学习过的内容的再总结，以及之后学习时的总结，因为目前学的东西不少，但是未能形成体系，并且大部分的时间在通过视频学习，之前的笔记为了方便自由快捷，故目前全部都写在自己的OneNote中，但是方便的后果就是杂乱无章，且OneNote不支持makedown写法，也不能加入代码块，作为一个强迫症晚期实在是不能忍，故目前准备用OneNote粗略写好后在typora上重新整理，然后再发布到github和CSDN上，虽然可能会多花费一些时间，并且现在我几乎已经预见到未来几天的艰难，但是这样反复相信对知识的理解应该可以更加深入一些，如果有不合适的地方再后期继续调整吧。</p><p>​    目前学习的方向涉及网络、运维、安全等方面，其余一些菜得抠脚的c/c++等等就不拿出来自爆了，萌新希望大佬们多多包涵，不足之处多多见谅。</p><p><img src="https://cdn.jsdelivr.net/gh/jndman/blog-img/blog/20200523235951.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;p&gt;计算机专业本科菜鸟一枚。&lt;/p&gt;
+&lt;p&gt;​    从大一起由前辈带路
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
